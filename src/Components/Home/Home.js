@@ -1,4 +1,5 @@
 import React from 'react';
+import Hridoy from '../Hridoy/Hridoy';
 import Posts from '../Posts/Posts';
 
 
@@ -8,6 +9,7 @@ const Home = () => {
     }
     return (
         <div>            
+            <Hridoy></Hridoy>
             <h1 style={homeHeaderStyle}>Explore My Popular Services</h1>
             <Posts></Posts>
         </div>
