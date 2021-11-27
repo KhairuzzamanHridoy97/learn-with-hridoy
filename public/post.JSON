@@ -1,0 +1,26 @@
+[
+
+    {"img":"https://www.codewithharry.com/assets/img/home-img-1.jpg",
+    "title":"Free Video Courses",
+    "description":"Get your programming career started with these free video courses. Source code is available with all the videos for amazing learning experience"},
+    
+    {
+    "img":"https://www.codewithharry.com/assets/img/home-img-2.jpg",
+    "title":"Coding Articles",
+    "description":"Some of the latest coding information compiled in the form of coding articles."
+},
+
+    {
+
+    "img":"https://www.codewithharry.com/assets/img/home-img-3.jpg",
+    "title":"Contact Me",
+    "description":"Learn programming from these free courses. Examples are available with these tutorials. You can contact me for any doubt and I will get back to you!"
+    
+    },
+    {
+        "img":"https://api.codewithharry.com/media/videoSeriesTiles/discuss.png",
+        "title":"Coding Discussion With Hridoy",
+        "description":"Get your programming career started with these free video courses. I'll discuss with you about the code and future tech ."
+    }
+
+] 

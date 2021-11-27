@@ -1,0 +1,56 @@
+[
+    {
+        "subId":1,
+        "img":"https://api.codewithharry.com/media/videoSeries/default.png",
+        "subject":"React Js Tutorials",
+        "details":"This series will cover React from starting to the end. We will learn react from the ground up!"
+    },
+    {
+        "subId":2,
+        "img":"https://api.codewithharry.com/media/videoSeriesTiles/default_YAMLAio.png",
+        "subject":"Python Practice Programs With Logic & Explanation",
+        "details":"Python Practice Programs With Logic & Explanation for Noobs."
+    },
+    {
+        "subId":3,
+        "img":"https://api.codewithharry.com/media/videoSeriesTiles/java.png",
+        "subject":"Java Tutorials For Beginners",
+        "details":"This series will cover Java from starting to the end. We will learn java from the start to the end"
+    },
+    {
+        "subId":4,
+        "img":"https://api.codewithharry.com/media/videoSeriesTiles/c_2OXTgR5.png",
+        "subject":"C Language Practice Programs",
+        "details":"This series contains programs for you to practice C Programming and related concepts"
+    },
+    {
+        "subId":5,
+        "img":"https://api.codewithharry.com/media/videoSeriesTiles/algo_HGtKbPH.png",
+        "subject":"Data Structures and Algorithms ",
+        "details":"Data Structures and algorithms course"
+    },
+    {
+        "subId":6,
+        "img":"https://api.codewithharry.com/media/videoSeriesTiles/php_HVsSGgg.png",
+        "subject":"PHP Tutorials",
+        "details":"PHP Tutorials for Freshers"
+    },
+    {
+        "subId":7,
+        "img":"https://api.codewithharry.com/media/videoSeriesTiles/cpp.png",
+        "subject":"C++ Tutorials For Freshers",
+        "details":"I'll teach you about C++"
+    },
+    {
+        "subId":8,
+        "img":"https://api.codewithharry.com/media/videoSeriesTiles/js.png",
+        "subject":"JavaScript Tutorials In Hindi",
+        "details":"You will learn everything about JS"
+    },
+    {
+        "subId":9,
+        "img":"https://api.codewithharry.com/media/videoSeriesTiles/django.png",
+        "subject":"Django Tutorials",
+        "details":"You will learn Web Development Using Django and Python"
+    }
+]
