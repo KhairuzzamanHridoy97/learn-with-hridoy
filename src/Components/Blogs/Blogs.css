@@ -1,6 +1,7 @@
 .welcome-blog{
     color: rgb(17, 2, 2);
     padding: 20px;
+    margin-top: 40px;
 }
 .blog-container{
     display: grid;

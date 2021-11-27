@@ -5,9 +5,9 @@ import './Header.css' ;
 
 const Header = () => {
     return (
-        <div>
+        <>
             {/* <h1 className='title'>Code With Hridoy</h1> */}
-            <Navbar bg="dark" variant='dark' expand="lg">
+            <Navbar bg="dark" fixed="top" variant='dark' expand="lg">
   <Container fluid>
     <Navbar.Brand href="#">Learn With Hridoy</Navbar.Brand>
     <Navbar.Toggle aria-controls="navbarScroll" />
@@ -26,7 +26,7 @@ const Header = () => {
     </Navbar.Collapse>
   </Container>
 </Navbar>
-        </div>
+        </>
     );
 };
 

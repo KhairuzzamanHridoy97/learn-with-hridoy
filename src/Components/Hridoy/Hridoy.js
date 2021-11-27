@@ -3,7 +3,7 @@ import hridoy from '../../images/hridoy_removebg.png'
 
 const Hridoy = () => {
     return (
-        <div className='container'>
+        <div className='container mt-5'>
             <div className="row">
                 <div className="col">
                     <img src={hridoy} alt="" />
